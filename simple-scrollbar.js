@@ -153,28 +153,7 @@ var config = {
         image: "hosts/control100x100.jpg",
         HTMLid: "cto9"
     },
-    cto10 = {
-        parent: cto,
-        text:{
-            name: "INSERT: Environmental T/H/P/V/L",
-            title: "Control host/insert future",
-            stage: "Stage: B",
-            progress: "Progress(%): 00",
-        },
-        image: "hosts/control100x100.jpg",
-        HTMLid: "cto10"
-    },
-    cto11 = {
-        parent: cto,
-        text:{
-            name: "INSERT: Security Motion/Vibr/Light",
-            title: "Control host/insert future",
-            stage: "Stage: B",
-            progress: "Progress(%): 00",
-        },
-        image: "hosts/control100x100.jpg",
-        HTMLid: "cto11"
-    },
+
     ////////////////////////////////////Switch children
     cbo2 = {
         parent: cbo,
@@ -264,28 +243,6 @@ var config = {
         image: "hosts/control100x100.jpg",
         HTMLid: "cbo9"
     },
-    cbo10 = {
-        parent: cbo,
-        text:{
-            name: "INSERT: Environmental T/H/P/V/L",
-            title: "Control host/insert future",
-            stage: "Stage: B",
-            progress: "Progress(%): 00",
-        },
-        image: "hosts/control100x100.jpg",
-        HTMLid: "cbo10"
-    },
-    cbo11 = {
-        parent: cbo,
-        text:{
-            name: "INSERT: Security Motion/Vibr/Light",
-            title: "Control host/insert future",
-            stage: "Stage: B",
-            progress: "Progress(%): 00",
-        },
-        image: "hosts/control100x100.jpg",
-        HTMLid: "cbo11"
-    },
     ////////////////////////////////////Dimmer children
     cdo2 = {
         parent: cdo,
@@ -374,28 +331,6 @@ var config = {
         },
         image: "hosts/control100x100.jpg",
         HTMLid: "cdo9"
-    },
-    cdo10 = {
-        parent: cdo,
-        text:{
-            name: "INSERT: Environmental T/H/P/V/L",
-            title: "Control host/insert future",
-            stage: "Stage: B",
-            progress: "Progress(%): 00",
-        },
-        image: "hosts/control100x100.jpg",
-        HTMLid: "cdo10"
-    },
-    cdo11 = {
-        parent: cdo,
-        text:{
-            name: "INSERT: Security Motion/Vibr/Light",
-            title: "Control host/insert future",
-            stage: "Stage: B",
-            progress: "Progress(%): 00",
-        },
-        image: "hosts/control100x100.jpg",
-        HTMLid: "cdo11"
     }
 
     ALTERNATIVE = [
@@ -412,8 +347,6 @@ var config = {
         cto7,
         cto8,
         cto9,
-        cto10,
-        cto11,
         cbo2,
         cbo3,
         cbo4,
@@ -422,8 +355,6 @@ var config = {
         cbo7,
         cbo8,
         cbo9,
-        cbo10,
-        cbo11,
         cdo2,
         cdo3,
         cdo4,
@@ -431,8 +362,6 @@ var config = {
         cdo6,
         cdo7,
         cdo8,
-        cdo9,
-        cdo10,
-        cdo11
+        cdo9
 
     ];
