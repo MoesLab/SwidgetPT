@@ -45,7 +45,7 @@ var config = {
             name: "HOST: Switch",
             title: "One way Switch",
             stage: "Stage: A",
-            progress: "Average Progress(%): 20",
+            progress: "Average Progress(%): 35",
         },
         image: "hosts/switch100x100.jpg",
         HTMLid: "cbo"
