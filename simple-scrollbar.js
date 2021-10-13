@@ -32,7 +32,7 @@ var config = {
             name: "HOST: Outlet",
             title: "Outlet 15A / 20A",
             stage: "Stage: A",
-            progress: "Average Progress(%): 05",
+            progress: "Average Progress(%): 40",
         },
         image: "hosts/outlet100x100.jpg",   
         HTMLid: "cto"
@@ -45,7 +45,7 @@ var config = {
             name: "HOST: Switch",
             title: "One way Switch",
             stage: "Stage: A",
-            progress: "Average Progress(%): 00",
+            progress: "Average Progress(%): 20",
         },
         image: "hosts/switch100x100.jpg",
         HTMLid: "cbo"
@@ -58,7 +58,7 @@ var config = {
             name: "HOST: Dimmer",
             title: "one/two way Dimmer",
             stage: "Stage: A",
-            progress: "Average Progress(%): 00",
+            progress: "Average Progress(%): 20",
 
         },
         image: "hosts/dimmer100x100.jpg",
@@ -82,7 +82,7 @@ var config = {
             name: "INSERT: USB",
             title: "Control host and power",
             stage: "Stage: B",
-            progress: "Progress(%): 00",
+            progress: "Progress(%): 10",
         },
         image: "hosts/control100x100.jpg",
         HTMLid: "cto3"
@@ -93,7 +93,7 @@ var config = {
             name: "INSERT: LED Guidelight",
             title: "Control host future",
             stage: "Stage: B",
-            progress: "Progress(%): 00",
+            progress: "Progress(%): 10",
         },
         image: "hosts/control100x100.jpg",
         HTMLid: "cto4"
@@ -104,7 +104,7 @@ var config = {
             name: "INSERT: Powerout Light",
             title: "Control host future only",
             stage: "Stage: B",
-            progress: "Progress(%): 00",
+            progress: "Progress(%): 10",
         },
         image: "hosts/control100x100.jpg",
         HTMLid: "cto5"
@@ -115,7 +115,7 @@ var config = {
             name: "INSERT: Temp/Humi",
             title: "Control host/insert future",
             stage: "Stage: B",
-            progress: "Progress(%): 00",
+            progress: "Progress(%): 10",
         },
         image: "hosts/control100x100.jpg",
         HTMLid: "cto6"
@@ -126,7 +126,7 @@ var config = {
             name: "INSERT: Temp/Humi/ Motion",
             title: "Control host/insert future",
             stage: "Stage: B",
-            progress: "Progress(%): 00",
+            progress: "Progress(%): 10",
         },
         image: "hosts/control100x100.jpg",
         HTMLid: "cto7"
@@ -137,7 +137,7 @@ var config = {
             name: "INSERT: Motion",
             title: "Control host/insert future",
             stage: "Stage: B",
-            progress: "Progress(%): 00",
+            progress: "Progress(%): 10",
         },
         image: "hosts/control100x100.jpg",
         HTMLid: "cto8"
@@ -148,7 +148,7 @@ var config = {
             name: "INSERT: AirQuality/ T/H/Pressure",
             title: "Control host/insert future",
             stage: "Stage: B",
-            progress: "Progress(%): 00",
+            progress: "Progress(%): 10",
         },
         image: "hosts/control100x100.jpg",
         HTMLid: "cto9"
@@ -161,7 +161,7 @@ var config = {
             name: "INSERT: Control",
             title: "Control host future",
             stage: "Stage: A",
-            progress: "Progress(%): 00",
+            progress: "Progress(%): 10",
         },
         image: "hosts/control100x100.jpg",
         HTMLid: "cbo2"
@@ -172,7 +172,7 @@ var config = {
             name: "INSERT: USB",
             title: "Control host and power",
             stage: "Stage: B",
-            progress: "Progress(%): 00",
+            progress: "Progress(%): 10",
         },
         image: "hosts/control100x100.jpg",
         HTMLid: "cbo3"
@@ -183,7 +183,7 @@ var config = {
             name: "INSERT: LED Guidelight",
             title: "Control host future",
             stage: "Stage: B",
-            progress: "Progress(%): 00",
+            progress: "Progress(%): 10",
         },
         image: "hosts/control100x100.jpg",
         HTMLid: "cbo4"
@@ -194,7 +194,7 @@ var config = {
             name: "INSERT: Powerout Light",
             title: "Control host future only",
             stage: "Stage: B",
-            progress: "Progress(%): 00",
+            progress: "Progress(%): 10",
         },
         image: "hosts/control100x100.jpg",
         HTMLid: "cbo5"
@@ -205,7 +205,7 @@ var config = {
             name: "INSERT: Temp/Humi",
             title: "Control host/insert future",
             stage: "Stage: B",
-            progress: "Progress(%): 00",
+            progress: "Progress(%): 10",
         },
         image: "hosts/control100x100.jpg",
         HTMLid: "cbo6"
@@ -216,7 +216,7 @@ var config = {
             name: "INSERT: Temp/Humi/ Motion",
             title: "Control host/insert future",
             stage: "Stage: B",
-            progress: "Progress(%): 00",
+            progress: "Progress(%): 10",
         },
         image: "hosts/control100x100.jpg",
         HTMLid: "cbo7"
@@ -227,7 +227,7 @@ var config = {
             name: "INSERT: Motion",
             title: "Control host/insert future",
             stage: "Stage: B",
-            progress: "Progress(%): 00",
+            progress: "Progress(%): 10",
         },
         image: "hosts/control100x100.jpg",
         HTMLid: "cbo8"
@@ -238,7 +238,7 @@ var config = {
             name: "INSERT: AirQuality/ T/H/Pressure",
             title: "Control host/insert future",
             stage: "Stage: B",
-            progress: "Progress(%): 00",
+            progress: "Progress(%): 10",
         },
         image: "hosts/control100x100.jpg",
         HTMLid: "cbo9"
@@ -250,7 +250,7 @@ var config = {
             name: "INSERT: Control",
             title: "Control host future",
             stage: "Stage: A",
-            progress: "Progress(%): 00",
+            progress: "Progress(%): 10",
         },
         image: "hosts/control100x100.jpg",
         HTMLid: "cdo2"
@@ -261,7 +261,7 @@ var config = {
             name: "INSERT: USB",
             title: "Control host and power",
             stage: "Stage: B",
-            progress: "Progress(%): 00",
+            progress: "Progress(%): 10",
         },
         image: "hosts/control100x100.jpg",
         HTMLid: "cdo3"
@@ -272,7 +272,7 @@ var config = {
             name: "INSERT: LED Guidelight",
             title: "Control host future",
             stage: "Stage: B",
-            progress: "Progress(%): 00",
+            progress: "Progress(%): 10",
         },
         image: "hosts/control100x100.jpg",
         HTMLid: "cdo4"
@@ -283,7 +283,7 @@ var config = {
             name: "INSERT: Powerout Light",
             title: "Control host future only",
             stage: "Stage: B",
-            progress: "Progress(%): 00",
+            progress: "Progress(%): 10",
         },
         image: "hosts/control100x100.jpg",
         HTMLid: "cdo5"
@@ -294,7 +294,7 @@ var config = {
             name: "INSERT: Temp/Humi",
             title: "Control host/insert future",
             stage: "Stage: B",
-            progress: "Progress(%): 00",
+            progress: "Progress(%): 10",
         },
         image: "hosts/control100x100.jpg",
         HTMLid: "cdo6"
@@ -305,7 +305,7 @@ var config = {
             name: "INSERT: Temp/Humi/ Motion",
             title: "Control host/insert future",
             stage: "Stage: B",
-            progress: "Progress(%): 00",
+            progress: "Progress(%): 10",
         },
         image: "hosts/control100x100.jpg",
         HTMLid: "cdo7"
@@ -316,7 +316,7 @@ var config = {
             name: "INSERT: Motion",
             title: "Control host/insert future",
             stage: "Stage: B",
-            progress: "Progress(%): 00",
+            progress: "Progress(%): 10",
         },
         image: "hosts/control100x100.jpg",
         HTMLid: "cdo8"
@@ -327,7 +327,7 @@ var config = {
             name: "INSERT: AirQuality/ T/H/Pressure",
             title: "Control host/insert future",
             stage: "Stage: B",
-            progress: "Progress(%): 00",
+            progress: "Progress(%): 10",
         },
         image: "hosts/control100x100.jpg",
         HTMLid: "cdo9"
